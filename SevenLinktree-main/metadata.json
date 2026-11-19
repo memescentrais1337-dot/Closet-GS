@@ -1,0 +1,6 @@
+{
+  "name": "Seven Lounge & Drinks",
+  "description": "Explore o cardápio da Seven, fale com a equipe e encontre o melhor caminho para chegar. Celina Park, Goiânia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
