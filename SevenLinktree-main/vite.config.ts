@@ -12,7 +12,7 @@ export default defineConfig(({ command }) => {
   }
 
   return {
-    base: '/clicae/',
+    base: '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
